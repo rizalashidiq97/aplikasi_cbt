@@ -1,0 +1,6 @@
+verbal : 10/25
+spasial : 10/25
+logika umum : 10/25
+aritmatika : 10/25
+
+200 + (6 * 100) = 800

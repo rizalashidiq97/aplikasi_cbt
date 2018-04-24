@@ -1,0 +1,27 @@
+/* your styles go here */
+.table thead th{
+	vertical-align: middle;
+}
+
+
+/*select2 style*/
+span.select2.select2-container.select2-container--default {
+    font-size: 19px;
+}
+
+span.select2-selection.select2-selection--single {
+    width: 11vw;
+    height: 30px;
+}
+
+span#select2-periode-container {
+    padding-left: 15px;
+}
+
+.form-control.error{
+	border: 1px solid red;
+}
+
+.error{
+	color: red;
+}
